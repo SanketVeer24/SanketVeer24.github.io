@@ -1,4 +1,5 @@
 {
+  "homepage": "https://SanketVeer24.github.io/sanket-veer-portfolio",
   "name": "sanket-veer-portfolio",
   "version": "0.1.0",
   "private": true,
@@ -23,6 +24,7 @@
     "babel-plugin-react-compiler": "1.0.0",
     "eslint": "^9",
     "eslint-config-next": "16.1.1",
+    "gh-pages": "^6.3.0",
     "postcss": "^8.4.45",
     "tailwindcss": "^4",
     "typescript": "^5"
